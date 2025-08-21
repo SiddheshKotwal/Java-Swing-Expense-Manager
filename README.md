@@ -11,36 +11,36 @@ A desktop application built with Java Swing for efficient tracking and managemen
 Fill the amount, category, and date fields and click "Add Expense".
 
 <p align="left">
-  <img src="./Expense%20Tracker%20Images/add%20expense/Capture1.JPG" alt="Adding Expense Step 1" width="250">
-  <img src="./Expense%20Tracker%20Images/add%20expense/Capture2.JPG" alt="Adding Expense Step 2" width="250">
-  <img src="./Expense%20Tracker%20Images/add%20expense/Capture3.JPG" alt="Adding Expense Step 3" width="250">
+  <img src="./Expense%20Tracker%20Images/add%20expense/Capture1.JPG" alt="Adding Expense Step 1" width="300">
+  <img src="./Expense%20Tracker%20Images/add%20expense/Capture2.JPG" alt="Adding Expense Step 2" width="300">
+  <img src="./Expense%20Tracker%20Images/add%20expense/Capture3.JPG" alt="Adding Expense Step 3" width="300">
 </p>
 
 ### 2. Updating an Expense
 Select a row, modify the fields, and click "Update Expense".
 
 <p align="left">
-  <img src="./Expense%20Tracker%20Images/update%20expense/Capture4.JPG" alt="Updating Expense Step 1" width="250">
-  <img src="./Expense%20Tracker%20Images/update%20expense/Capture5.JPG" alt="Updating Expense Step 2" width="250">
-  <img src="./Expense%20Tracker%20Images/update%20expense/Capture6.JPG" alt="Updating Expense Step 3" width="250">
+  <img src="./Expense%20Tracker%20Images/update%20expense/Capture4.JPG" alt="Updating Expense Step 1" width="300">
+  <img src="./Expense%20Tracker%20Images/update%20expense/Capture5.JPG" alt="Updating Expense Step 2" width="300">
+  <img src="./Expense%20Tracker%20Images/update%20expense/Capture6.JPG" alt="Updating Expense Step 3" width="300">
 </p>
 
 ### 3. Deleting an Expense
 Select a row and click "Delete Expense".
 
 <p align="left">
-  <img src="./Expense%20Tracker%20Images/delete%20expense/Capture12.JPG" alt="Deleting Expense Step 1" width="250">
-  <img src="./Expense%20Tracker%20Images/delete%20expense/Capture7.JPG" alt="Deleting Expense Step 2" width="250">
-  <img src="./Expense%20Tracker%20Images/delete%20expense/Capture8.JPG" alt="Deleting Expense Step 3" width="250">
+  <img src="./Expense%20Tracker%20Images/delete%20expense/Capture12.JPG" alt="Deleting Expense Step 1" width="300">
+  <img src="./Expense%20Tracker%20Images/delete%20expense/Capture7.JPG" alt="Deleting Expense Step 2" width="300">
+  <img src="./Expense%20Tracker%20Images/delete%20expense/Capture8.JPG" alt="Deleting Expense Step 3" width="300">
 </p>
 
 ### 4. Viewing Total and Category-wise Expenses
 Click "Get Total Expenses" for overall total, or select a category from the dropdown.
 
 <p align="left">
-  <img src="./Expense%20Tracker%20Images/Total%20and%20Category%20wise%20total%20expenses/Capture9.JPG" alt="Viewing Totals Step 1" width="250">
-  <img src="./Expense%20Tracker%20Images/Total%20and%20Category%20wise%20total%20expenses/Capture11.JPG" alt="Viewing Totals Step 2" width="250">
-  <img src="./Expense%20Tracker%20Images/Total%20and%20Category%20wise%20total%20expenses/Capture12.png" alt="Viewing Totals Step 3" width="250">
+  <img src="./Expense%20Tracker%20Images/Total%20and%20Category%20wise%20total%20expenses/Capture9.JPG" alt="Viewing Totals Step 1" width="300">
+  <img src="./Expense%20Tracker%20Images/Total%20and%20Category%20wise%20total%20expenses/Capture11.JPG" alt="Viewing Totals Step 2" width="300">
+  <img src="./Expense%20Tracker%20Images/Total%20and%20Category%20wise%20total%20expenses/Capture12.png" alt="Viewing Totals Step 3" width="300">
 </p>
 
 ---
