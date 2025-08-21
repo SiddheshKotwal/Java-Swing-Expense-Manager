@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Lenovo\\Desktop\\java project\\ExpenseTracker\\lib\\sqlite-jdbc.jar",
+        "c:\\Users\\Lenovo\\Desktop\\java project\\ExpenseTracker\\lib\\slf4j-simple-2.0.13.jar",
+        "c:\\Users\\Lenovo\\Desktop\\java project\\ExpenseTracker\\lib\\slf4j-api-2.0.13.jar"
+    ]
+}
