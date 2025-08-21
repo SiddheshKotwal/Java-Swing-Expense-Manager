@@ -80,7 +80,7 @@ Click "Get Total Expenses" for overall total, or select a category from the drop
 ### Instructions
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SiddheshKotwal/Java-Swing-Expense-Manager.git](https://github.com/SiddheshKotwal/Java-Swing-Expense-Manager.git)
+    git clone https://github.com/SiddheshKotwal/Java-Swing-Expense-Manager.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
