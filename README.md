@@ -78,24 +78,23 @@ Click "Get Total Expenses" for overall total, or select a category from the drop
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ### Instructions
-
 1.  **Clone the repository:**
-    \`\`\`bash
-    git clone [your\_repository\_url]
-    \`\`\`
+    ```bash
+    git clone [https://github.com/SiddheshKotwal/Java-Swing-Expense-Manager.git](https://github.com/SiddheshKotwal/Java-Swing-Expense-Manager.git)
+    ```
 2.  **Navigate to the project directory:**
-    \`\`\`bash
+    ```bash
     cd Java-Swing-Expense-Manager
-    \`\`\`
+    ```
 3.  **Compile the Java source files:**
-    \`\`\`bash
+    ```bash
     javac -d bin -cp "lib/*" src/*.java
-    \`\`\`
+    ```
 4.  **Run the application:**
-    \`\`\`bash
+    ```bash
     java -cp "bin;lib/*" Main
-    \`\`\`
-    *(Use `;` as separator on Windows, `:` on macOS/Linux)*
+    ```
+    *(Use `;` as the separator on Windows, and `:` on macOS/Linux)*
 
 ---
 
